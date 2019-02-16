@@ -55,3 +55,49 @@ mouse and press
 suites.
 
 * snes9x-gtk - SNES emulator
+
+* git - duh
+
+* scrot - screenshots
+
+* yay - AUR installer
+
+#### Babbys first Linux commands
+
+* to move files:
+``` mv path/to/currentposition path/to/newposition 
+```
+
+cp instead of mv to copy
+
+``` rm -rf ``` or just ``` rm ``` to remove a file.
+
+``` cd ``` to change directory 
+
+#### git reminder ( in case I get dementia ) 
+
+* to initialize a repo 
+
+``` git init ``` 
+
+* to clone a repo
+
+``` git clone 
+htts://github.com/morhetz/gruvboxasanexample.git 
+``` 
+
+* to add all new files 
+
+``` git add * ```  
+
+* to commit them 
+
+``` git commit -m "message!"
+
+* and then push with
+
+``` git push ``` 
+
+I use Arch btw. ;PppPPpPpPp
+
+
