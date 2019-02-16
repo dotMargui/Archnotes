@@ -65,8 +65,7 @@ suites.
 #### Babbys first Linux commands
 
 * to move files:
-``` mv path/to/currentposition path/to/newposition 
-```
+```mv path/to/currentposition path/to/newposition```
 
 cp instead of mv to copy
 
@@ -78,7 +77,7 @@ cp instead of mv to copy
 
 * to initialize a repo 
 
-``` git init ``` 
+```git init``` 
 
 * to clone a repo
 
@@ -88,11 +87,11 @@ htts://github.com/morhetz/gruvboxasanexample.git
 
 * to add all new files 
 
-``` git add * ```  
+```git add *```  
 
 * to commit them 
 
-``` git commit -m "message!"
+``` git commit -m "message!" ```
 
 * and then push with
 
