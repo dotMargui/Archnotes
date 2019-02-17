@@ -40,7 +40,10 @@ mouse and press
 
 ``` super + shift + q ```
 
-* 
+* to close i3-wm 
+
+``` super + shift + e ```
+ 
 #### Programs I use
 
 * qutebrowser - web browser
@@ -96,6 +99,14 @@ htts://github.com/morhetz/gruvboxasanexample.git
 * and then push with
 
 ``` git push ``` 
+
+#### To close down Arch Linux
+
+* Type this in a terminal
+
+```sudo shutdown -h now ```
+
+---- 
 
 I use Arch btw. ;PppPPpPpPp
 
